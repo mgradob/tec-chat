@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "701153752517",
+    "firebase_url": "https://chat-app-b3a24.firebaseio.com",
+    "project_id": "chat-app-b3a24",
+    "storage_bucket": "chat-app-b3a24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701153752517:android:7a261716514c5068",
+        "android_client_info": {
+          "package_name": "com.test.mgb.tecchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701153752517-el5g3ge1jbus4jnh816027hhc94kvcpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCJmVRN6UQIKaPvHDW_Bx3p90jil3lM6s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
